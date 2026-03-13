@@ -1,0 +1,16 @@
+# environment variables
+backend/app/.env
+backend/package/
+backend/lambda.zip
+
+# python
+__pycache__/
+*.pyc
+venv/
+
+# node
+node_modules/
+dist/
+
+# mac
+.DS_Store

@@ -1,0 +1,10 @@
+things to add 
+- make it dynamcic so that we can run analysis by month
+- read sec data
+- deploy on aws
+- summarize scc data, debreif financial data in that sector 
+- estimated growth rate in month/bi-yearly/year
+- dynamic dates that follow sun-sat order 
+
+- details : ticker, sector, offer amount, dates
+- details : pros, cons 
